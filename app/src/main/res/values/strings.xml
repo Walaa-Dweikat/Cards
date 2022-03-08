@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="joker">Joker</string>
+    <string name="number">1</string>
+    <string name="fab_content_description">addButton</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="joker_card_attrs">
+        <attr name="card_number" format="string" />
+        <attr name="card_image" format="reference"/>
+    </declare-styleable>
+</resources>
